@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mardahl/iphase-dk # Path to your Github repository
+  repo: mardahl/cloudaid-dk # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
