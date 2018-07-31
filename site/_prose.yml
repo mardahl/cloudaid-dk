@@ -1,0 +1,4 @@
+prose:
+  rooturl: 'content'
+  siteurl: 'https://www.iphase.dk/'
+  media: 'static'
