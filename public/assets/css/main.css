@@ -2800,9 +2800,9 @@ input, select, textarea {
 		.main.style2 {
 			background-color: #4F022B;
 			color: rgba(255, 255, 255, 0.75);
-			/*background-attachment: center,							center;
+			background-attachment: center,							center;
 			background-image: url("images/letters_by_joanna_kosinska.jpg"), url("../../images/letters_by_joanna_kosinska.jpg");
-			background-size: cover,							cover;*/
+			background-size: cover,							cover;
 		}
 
 			.main.style2 a {
