@@ -1,2 +1,0 @@
-# vjeantet.fr
-my blog
